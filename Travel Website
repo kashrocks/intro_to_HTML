@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            
+            #List-title{
+            background-color: rgb(255, 204, 184);
+            color: rgb(12, 0, 230);
+            }
+            
+            h1{
+                color: rgb(133, 129, 19);
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>EGYPT</h1>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/beach-with-palm-trees.png" height="200" width="300"> 
+        <p>Welcome to the faboulous <strong>Egypt</strong>. It is home to <em>rich</em> history and even better sightseeing. The hot sun and the pleasent nights make a once in a life time experience parralell to no other.</p>
+        <h1>Things to do! </h1> 
+        <h2 id="List-title">1. Visit the Pyramids</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg" height="200" width="300"> 
+        <p>The Pyramids are one of the most defining values of Egypt. The towering structures are a worlds wonder and so rich in history. You would be mesmerized.</p>
+        <ul>
+        <strong>
+            <li>The Sphinx</li>
+            <li>The Pyramid of Giza</li>
+            <li>Tomb of King Tut</li>
+        </strong>
+        </ul>
+        
+        <h2 id="List-title">2. Visit the Pyramids</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/en/e/e3/ColArchCairo.jpg" height="200" width="300"> 
+        <p>Cario, the capitol of egypt is one of the most renowned cities in egypt. With bustling streets and rich architecture it is defniatly a place to see.</p>
+        
+        <h2 id="List-title">3. Visit Hurghada</h2>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/beach.png" height="200" width="300"> 
+        <p>With endless beaches and miles of water, pristine views and relxing vibes Hurghada is one of the most sought after places. Flocking thousands of tourists every year it is most definatly a place to see.</p>
+        
+    </body>
+</html>
